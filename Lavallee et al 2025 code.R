@@ -3,8 +3,8 @@
 library(tidyverse)
 setwd("...")
 
-load("Lavallee_et_al_2024_data.RData")
-load("Lavallee_et_al_2024_supp_data.RData")
+load("Lavallee_et_al_2025_data.RData")
+load("Lavallee_et_al_2025_supp_data.RData")
 
 
 # 1) SOC and NPP vs. Aritidy Index ----
