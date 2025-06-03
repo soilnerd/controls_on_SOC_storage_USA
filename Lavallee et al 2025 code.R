@@ -1,7 +1,7 @@
 ### Code for Lavallee et al. 2025 ###
 # 0) Read data ----
 library(tidyverse)
-setwd("/Users/jocelynlavallee/Dropbox/3\ Other\ Projects/NRCS\ Soil\ Inventory/Manuscript")
+setwd()
 load("Lavallee_et_al_2025_data.RData")
 
 # 0) Characteristics of the dataset ----
